@@ -1,0 +1,467 @@
+{
+    "fullName": "Asad Khan",
+    "firstName": "Asad",
+    "lastName": "Khan",
+    "profession": "Graphics Designer",
+    "quote": "Satisfaction of Client Worth more than Money!",
+    "tagline": "I bring ideas to life through captivating visuals and immersive designs. Let's collaborate and make something extraordinary!",
+    "profileImageUrl": "assets/img/hero/me.png",
+    "about": "Hi There. I'm an expert graphic designer ready to bring your vision to life. From logos to websites, I offer professional and high-quality design services for all your needs. Trust me to elevate your brand and take it to the next level.",
+    "basicInfo": {
+        "mobile": "(+92)-333-8032733",
+        "email": "asadkhann@hotmail.com",
+        "shortAddress": "Lahore Pakistan",
+        "longAddress": "Phase 1, DHA, Lahore",
+        "languages": "English, Urdu, Punjabi",
+        "copyrightOwner":"Gorsi Design Studio"
+    },
+    "socialLinks": [
+        {
+            "icon": "fa-brands fa-linkedin-in",
+            "platformName": "LinkedIn",
+            "link": ""
+        }
+    ],
+    "funFactArea": [
+        {
+            "dataCount": "6",
+            "yearsOrExpOrState": "Years of",
+            "achievement": "Experience"
+        },
+        {
+            "dataCount": "250+",
+            "yearsOrExpOrState": "Projects",
+            "achievement": "Completed"
+        },
+        {
+            "dataCount": "152",
+            "yearsOrExpOrState": "Happy",
+            "achievement": "Clients"
+        }
+    ],
+    "process": [
+        {
+            "imageBackgroundUrl": "assets/img/brushes/process/dark/1.png",
+            "imageUrl": "assets/img/svg/process/target-2.svg",
+            "name": "Happy Clients",
+            "description": "When working with clients. Money is not my main objective. I strive to make all clients Happy. It's on fiverr or Local."
+        },
+        {
+            "imageBackgroundUrl": "assets/img/brushes/process/dark/2.png",
+            "imageUrl": "assets/img/svg/process/brush-2.svg",
+            "name": "Projects Completed",
+            "description": "I have completed more than 250+ Projects. Every single project have taught me something new."
+        },
+        {
+            "imageBackgroundUrl": "assets/img/brushes/process/dark/3.png",
+            "imageUrl": "assets/img/svg/process/energy-2.svg",
+            "name": "Years of Success",
+            "description": "It's been 6 Successful Years in Graphic Designing field."
+        }
+    ],
+    "skills": [
+        {
+            "name": "Photoshop",
+            "percentage": "100",
+            "imageUrl": "assets/img/icons/photoshop.svg"
+        },
+        {
+            "name": "Illustrator",
+            "percentage": "100",
+            "imageUrl": "assets/img/icons/illustrator.svg   "
+        },
+        {
+            "name": "XD",
+            "percentage": "95",
+            "imageUrl": "assets/img/icons/xd.svg"
+        },
+        {
+            "name": "InDesign",
+            "percentage": "90",
+            "imageUrl": "assets/img/icons/indesign.svg"
+        },
+        {
+            "name": "Premiere Pro",
+            "percentage": "80",
+            "imageUrl": "assets/img/icons/priemre-pro.svg"
+        },
+        {
+            "name": "Sketch",
+            "percentage": "100",
+            "imageUrl": "assets/img/icons/sketch.svg"
+        },
+        {
+            "name": "Figma",
+            "percentage": "90",
+            "imageUrl": "assets/img/icons/figma.svg"
+        },
+        {
+            "name": "Blender",
+            "percentage": "90",
+            "imageUrl": "assets/img/icons/blender.svg"
+        }
+    ],
+    "portfolioHeadings": [
+        {
+            "name": "Logo Design",
+            "dataFilter": "logodesign",
+            "class":"active"
+        },
+        {
+            "name": "Print Design",
+            "dataFilter": "printdesign",
+            "class":""
+        },
+        {
+            "name": "Packaging",
+            "dataFilter": "packaging",
+            "class":""
+        },
+        {
+            "name": "3D Products",
+            "dataFilter": "3dmodeling",
+            "class":""
+        }
+    ],
+    "portfolios": [
+        {
+            "class": "logodesign",
+            "name": "Airship Muni Logo",
+            "dataMfpSrc": "AirshipMuniLogo",
+            "imageUrl": "assets/img/portfolio/Logos/airship-Muni-Logo.jpg"
+        },
+        {
+            "class": "logodesign",
+            "name": "Bella Rocca",
+            "dataMfpSrc": "BellaRocca",
+            "imageUrl": "assets/img/portfolio/Logos/Bella-Rocca.jpg"
+        },
+        {
+            "class": "logodesign",
+            "name": "Caminhos Derosa Logo",
+            "dataMfpSrc": "CaminhosDerosaLogo",
+            "imageUrl": "assets/img/portfolio/Logos/Caminhos-Derosa-logo.jpg"
+        },
+        {
+            "class": "logodesign",
+            "name": "Claudio Logo",
+            "dataMfpSrc": "ClaudioLogo",
+            "imageUrl": "assets/img/portfolio/Logos/Claudio-logo.jpg"
+        },
+        {
+            "class": "logodesign",
+            "name": "Dexter Lab Wash",
+            "dataMfpSrc": "DexterLabWash",
+            "imageUrl": "assets/img/portfolio/Logos/dexters-lab-wash.jpg"
+        },
+        {
+            "class": "logodesign",
+            "name": "Eco Energy",
+            "dataMfpSrc": "EcoEnergy",
+            "imageUrl": "assets/img/portfolio/Logos/eco-energy.jpg"
+        },
+        {
+            "class": "logodesign",
+            "name": "Henrique Riberio Logo",
+            "dataMfpSrc": "HenriqueRiberioLogo",
+            "imageUrl": "assets/img/portfolio/Logos/Henrique-Riberio-Logo.jpg"
+        },
+        {
+            "class": "logodesign",
+            "name": "Madd Skillz Studio",
+            "dataMfpSrc": "MaddSkillzStudio",
+            "imageUrl": "assets/img/portfolio/Logos/madd-skillz-studio.jpg"
+        },
+        {
+            "class": "logodesign",
+            "name": "Nora",
+            "dataMfpSrc": "Nora",
+            "imageUrl": "assets/img/portfolio/Logos/Nora-Logo.jpg"
+        },
+        {
+            "class": "logodesign",
+            "name": "Ozmo",
+            "dataMfpSrc": "Ozmo",
+            "imageUrl": "assets/img/portfolio/Logos/ozmo-logo.jpg"
+        },
+        {
+            "class": "logodesign",
+            "name": "Steven Denial Co.",
+            "dataMfpSrc": "StevenDenialCo",
+            "imageUrl": "assets/img/portfolio/Logos/stevendenial-Co.jpg"
+        },
+        {
+            "class": "logodesign",
+            "name": "Tail Jack",
+            "dataMfpSrc": "TailJack",
+            "imageUrl": "assets/img/portfolio/Logos/tail-jack.jpg"
+        },
+        {
+            "class": "printdesign",
+            "name": "Sports Bag",
+            "dataMfpSrc": "SportsBag",
+            "imageUrl": "assets/img/portfolio/Print Design/1.jpg"
+        },
+        {
+            "class": "printdesign",
+            "name": "WetSuit",
+            "dataMfpSrc": "WetSuit",
+            "imageUrl": "assets/img/portfolio/Print Design/2.jpg"
+        },
+        {
+            "class": "printdesign",
+            "name": "Sports Shirt",
+            "dataMfpSrc": "SportsShirt",
+            "imageUrl": "assets/img/portfolio/Print Design/3.jpg"
+        },
+        {
+            "class": "printdesign",
+            "name": "Shirt Design",
+            "dataMfpSrc": "ShirtDesign1",
+            "imageUrl": "assets/img/portfolio/Print Design/4.jpg"
+        },
+        {
+            "class": "printdesign",
+            "name": "Shirt Design",
+            "dataMfpSrc": "ShirtDesign2",
+            "imageUrl": "assets/img/portfolio/Print Design/5.jpg"
+        },
+        {
+            "class": "printdesign",
+            "name": "Shirt Design",
+            "dataMfpSrc": "ShirtDesign3",
+            "imageUrl": "assets/img/portfolio/Print Design/6.jpg"
+        },
+        {
+            "class": "printdesign",
+            "name": "Shirt Design",
+            "dataMfpSrc": "ShirtDesign4",
+            "imageUrl": "assets/img/portfolio/Print Design/7.jpg"
+        },
+        {
+            "class": "printdesign",
+            "name": "Cap Design",
+            "dataMfpSrc": "CapDesign",
+            "imageUrl": "assets/img/portfolio/Print Design/8.jpg"
+        },
+        {
+            "class": "packaging",
+            "name": "Tuck end Box",
+            "dataMfpSrc": "TuckEndBox",
+            "imageUrl": "assets/img/portfolio/Packaging/1.jpg"
+        },
+        {
+            "class": "packaging",
+            "name": "Tuck end Box",
+            "dataMfpSrc": "TuckEndBox1",
+            "imageUrl": "assets/img/portfolio/Packaging/2.jpg"
+        },
+        {
+            "class": "packaging",
+            "name": "Pouch",
+            "dataMfpSrc": "Pouch",
+            "imageUrl": "assets/img/portfolio/Packaging/3.jpg"
+        },
+        {
+            "class": "packaging",
+            "name": "Can",
+            "dataMfpSrc": "Can",
+            "imageUrl": "assets/img/portfolio/Packaging/4.jpg"
+        },
+        {
+            "class": "packaging",
+            "name": "Tuck end Box",
+            "dataMfpSrc": "TuckEndBox2",
+            "imageUrl": "assets/img/portfolio/Packaging/5.jpg"
+        },
+        {
+            "class": "packaging",
+            "name": "Label Design",
+            "dataMfpSrc": "LabelDesign",
+            "imageUrl": "assets/img/portfolio/Packaging/6.jpg"
+        },
+        {
+            "class": "packaging",
+            "name": "Pouch Design",
+            "dataMfpSrc": "PouchDesign",
+            "imageUrl": "assets/img/portfolio/Packaging/7.jpg"
+        },
+        {
+            "class": "3dmodeling",
+            "name": "Booth Design",
+            "dataMfpSrc": "BoothDesign",
+            "imageUrl": "assets/img/portfolio/3D products/1.jpg"
+        },
+        {
+            "class": "3dmodeling",
+            "name": "Booth Design",
+            "dataMfpSrc": "BoothDesign1",
+            "imageUrl": "assets/img/portfolio/3D products/2.jpg"
+        },
+        {
+            "class": "3dmodeling",
+            "name": "Wine Bottle",
+            "dataMfpSrc": "WineBottle",
+            "imageUrl": "assets/img/portfolio/3D products/3.jpg"
+        },
+        {
+            "class": "3dmodeling",
+            "name": "Cosmetic Bottles",
+            "dataMfpSrc": "CosmeticBottles",
+            "imageUrl": "assets/img/portfolio/3D products/4.jpg"
+        }
+    ],
+    "experiences": [
+        {
+            "company": "Fiverr, Upwork",
+            "profession": "Freelance Graphic Designer",
+            "duration": "Apr 2019 - Present"
+        },
+        {
+            "company": "We Custom Boxes, Lahore, Pakistan",
+            "profession": "Packaging Designer",
+            "duration": "Apr 2020 - Mar 2022"
+        },
+        {
+            "profession": "Graphic Designer",
+            "duration": "Jan 2018 - Jun 2019",
+            "company": "ArtBoxbyNaba, Lahore, Pakistan"
+        },
+        {
+            "company": "Coresolutionsandservices, Lahore, Pakistan",
+            "profession": "Junior Graphics Designer",
+            "duration": "Mar 2016 - July 2016"
+        }
+    ],
+    "education": [
+        {
+            "institute": "Punjab University, Lahore",
+            "degree": "Graphic Designer, BA",
+            "duration": "2020 - 2022"
+        },
+        {
+            "institute": "Udemy",
+            "degree": "3D Design Course",
+            "duration": "2021 - 2021"
+        },
+        {
+            "institute": "Udemy",
+            "degree": "Packaging Design Course",
+            "duration": "2020 - 2020"
+        },
+        {
+            "institute": "digiskills.pk",
+            "degree": "Graphic design course",
+            "duration": "2019 - 2019"
+        }
+    ],
+    "services": [
+        {
+            "current": "current",
+            "name": "Branding Design",
+            "description": "Elevating brands with meticulously crafted identities that resonate deeply with their audience, leaving a lasting impression and fostering long-term connections."
+        },
+        {
+            "current": "",
+            "name": "3D Product Design",
+            "description": "Bringing products to life in three-dimensional space, our design expertise ensures visually stunning and functionally superior solutions that captivate audiences and elevate brands."
+        },
+        {
+            "current": "",
+            "name": "UI/UX Design",
+            "description": "Transforming digital experiences with intuitive UI and UX designs that seamlessly blend functionality with aesthetics, ensuring engaging interactions that delight users and drive business success."
+        },
+        {
+            "current": "",
+            "name": "Packaging Design",
+            "description": "Harnessing the power of visual storytelling, our graphic design services breathe life into concepts, creating eye-catching visuals that captivate audiences and elevate brands to new heights of recognition and engagement."
+        }
+    ],
+    "testimonials": [
+        {
+            "name": "nopedonotwant",
+            "imageUrl": "",
+            "productImageUrl":"",
+            "place": "United State",
+            "review": "I am very happy with my delivery. Quick and to my specifications. 10/10 "
+        },
+        {
+            "name": "Belinda Hamilton",
+            "imageUrl": "",
+            "productImageUrl":"",
+            "place": "Australia",
+            "review": "Asad was fast, efficient and understood the brief. Had great suggestions and adhered to the very timeline. 10/10 "
+        },
+        {
+            "name": "Space Niche",
+            "imageUrl": "",
+            "productImageUrl":"",
+            "place": "United State",
+            "review": "Great work, easy communication, good to work with. 10/10 "
+        },
+        {
+            "name": "James",
+            "imageUrl": "",
+            "productImageUrl":"",
+            "place": "Behrain",
+            "review": "Asad's designs are nothing short of spectacular. He brings concepts to life with finesse and flair. A pleasure to collaborate with! 10/10 "
+        },
+        {
+            "name": "Philippa Pires",
+            "imageUrl": "",
+            "productImageUrl":"",
+            "place": "United Kingdom",
+            "review": "Working with Asad was a breeze. His attention to detail and ability to capture our brand essence in his designs were impressive. Thank you, Asad! 10/10 "
+        },
+        {
+            "name": "nopedonotwant",
+            "imageUrl": "",
+            "productImageUrl":"",
+            "place": "United State",
+            "review": "I am very happy with my delivery. Quick and to my specifications. 10/10 "
+        },
+        {
+            "name": "Yao Yao",
+            "imageUrl": "",
+            "productImageUrl":"",
+            "place": "United State",
+            "review": "If you're looking for a graphic designer who delivers quality results every time, Asad is your guy. Consistent excellence and great communication! 10/10 "
+        },
+        {
+            "name": "Josh Sperber",
+            "imageUrl": "",
+            "productImageUrl":"",
+            "place": "United Kingdom",
+            "review": "Asad is a true gem in the world of graphic design. His work speaks volumes about his talent and dedication. Five stars! 10/10"
+        },
+        {
+            "name": "Hanna Axel",
+            "imageUrl": "",
+            "productImageUrl":"",
+            "place": "United State",
+            "review": "Outstanding work from Asad! His graphic design skills are unmatched. From start to finish, Asad ensured our project in Spain was a success. Highly recommend! 10/10 "
+        }
+    ],
+    "navigationLinks":[
+        {
+            "name":"Services",
+            "section":"services-section"
+        },
+        {
+            "name":"Works",
+            "section":"works-section"
+        },
+        {
+            "name":"Resume",
+            "section":"resume-section"
+        },
+        {
+            "name":"Skills",
+            "section":"skills-section"
+        },
+        {
+            "name":"Testimonials",
+            "section":"testimonials-section"
+        }
+    ]
+}
